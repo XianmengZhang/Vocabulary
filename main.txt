@@ -192,6 +192,10 @@ devise
 bequeath
 		leave (a personal estate or one's body) to a person or other beneficiary by a will
 			an identical sum was bequeathed by Margaret
+belie
+		fail to give a true notion or impression of (something); disguise or contradict
+			 the appearance tends to belie the reality
+		fail to fulfill or justify (a claim or expectation); betray
 inexplicable
 		unable to be explained or accounted for
 vagary
