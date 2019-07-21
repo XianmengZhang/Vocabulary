@@ -42,8 +42,8 @@ mirth
 euphoria
 			a feeling or state of intense excitement and happiness
 				the euphoria of success will fuel your desire to continue training
-distended	<
-			swollen due to pressure from inside
+distend		<
+			swell due to pressure from inside
 				a distended belly
 bewitch
 enchant
