@@ -178,14 +178,15 @@ stern		<
 				he stood at the stern of the yacht
 obstinate
 			stubbornly refusing to change one's opinion or chosen course of action
-recalcitrant
+recalcitrant	<
 			having an obstinately uncooperative attitude toward authority or discipline
 assimilation
 			the process of becoming similar to something
 			the process of taking in and fully understanding information or ideas
 			the absorption and digestion of food or nutrients by the body or any biological system
-impudent
+impudent	<
 			not showing due respect for another person
+				I glared at her, not caring if she thought me impudent
 indulge		<
 			allow oneself to enjoy the pleasure of
 				we indulged in some hot fudge sundaes
@@ -194,7 +195,7 @@ fortuitous
 coalesce
 			come together and form one mass or whole
 				the puddles had coalesced into shallow streams
-acquisitiveness	<
+acquisitive	<
 			excessive interest in acquiring money or material things
 attest
 			provide or serve as clear evidence of
@@ -385,6 +386,8 @@ prolix		<
 				he found the narrative too prolix and discursive
 impetuous	<
 			acting or done quickly and without thought or care
+			moving forcefully or rapidly
+				an impetuous but controlled flow of water
 prodigal
 			spending money or resources freely and recklessly
 			a person who spends money in a recklessly extravagant way
@@ -398,7 +401,7 @@ pellucid	<
 			translucently clear
 				mountains reflected in the pellucid waters
 =====
-aloof
+aloof		<
 			not friendly or forthcoming; cool and distant
 				they were courteous but faintly aloof
 placid		<
