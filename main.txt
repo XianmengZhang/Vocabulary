@@ -8,6 +8,8 @@ eutrophication
 amelioration
 			the act of making something better;	 improvement
 				progress brings with it the amelioration of the human condition
+fond		<
+			having an affection or liking for
 testosterone
 demise
 			a person's/thing's death
@@ -20,8 +22,6 @@ stupendous
 				a stupendous display of technique
 prodigious
 			remarkably or impressively great in extent
-archaic
-mire		<
 morass
 			an area of muddy or boggy ground
 			a complicated or confused situation
@@ -59,8 +59,6 @@ narcissist
 dogma
 			a principle or set of principles laid down by an authority as incontrovertibly true
 contemptible
-fond		<
-			having an affection or liking for
 endogenous	<
 			having an internal cause or origin
 				The vast majority of mutations in human tissues are certainly of endogenous origin
@@ -126,6 +124,8 @@ condescend
 			show feelings of superiority
 boorish
 			rough and bad-mannered
+jettison	<
+			throw or drop (something) from an aircraft or ship
 pompous
 			affectedly and irritatingly grand, solemn, or self-important
 opulence
@@ -167,8 +167,13 @@ symbiosis	<
 compatriot
 			a fellow citizen or national of a country
 				Stich defeated his compatriot Boris Becker in the quarterfinals
+decorous	<
+			in keeping with good taste and propriety; polite and restrained
+				consequently, women are expected to be decorous , modest, and discreet
+				dancing with decorous space between partners
 satiate
 			satisfied to the full
+mire		<
 gorging
 			eat a large amount greedily
 stern		<
@@ -334,7 +339,7 @@ polemic		<
 				the song is not just a polemic against those who are in power
 vehement	<
 			showing strong feeling; forceful, passionate, or intense
-				"her voice was low but vehement"
+				her voice was low but vehement
 imbue		<
 			inspire or permeate with a feeling or quality
 				the entire performance was imbued with sparkle
@@ -364,7 +369,6 @@ apparatus	<
 				laboratory apparatus
 			a complex structure within an organization or system
 				the apparatus of government
-
 =====
 frivolous	<
 			not having any serious purpose or value
