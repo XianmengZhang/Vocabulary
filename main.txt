@@ -58,6 +58,9 @@ narcissist
 			a person who has an excessive interest in or admiration of themselves
 dogma
 			a principle or set of principles laid down by an authority as incontrovertibly true
+heuristic	<
+			enabling a person to discover or learn something for themselves
+				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
 contemptible
 endogenous	<
 			having an internal cause or origin
