@@ -42,7 +42,7 @@ mirth
 euphoria
 			a feeling or state of intense excitement and happiness
 				the euphoria of success will fuel your desire to continue training
-distend		<
+distend		<<
 			swell due to pressure from inside
 				a distended belly
 bewitch
@@ -58,7 +58,7 @@ narcissist
 			a person who has an excessive interest in or admiration of themselves
 dogma
 			a principle or set of principles laid down by an authority as incontrovertibly true
-heuristic	<
+heuristic	<<
 			enabling a person to discover or learn something for themselves
 				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
 contemptible
@@ -126,10 +126,13 @@ condescend
 			show feelings of superiority
 boorish
 			rough and bad-mannered
-jettison	<
+jettison	-
 			throw or drop (something) from an aircraft or ship
 pompous
 			affectedly and irritatingly grand, solemn, or self-important
+euphemism
+			a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing
+				“downsizing” as a euphemism for cuts
 opulence
 			great wealth or luxuriousness
 occlude		-
@@ -204,12 +207,12 @@ fortuitous
 coalesce	<
 			come together and form one mass or whole
 				the puddles had coalesced into shallow streams
-acquisitive	<
+acquisitive	<<
 			excessive interest in acquiring money or material things
 attest
 			provide or serve as clear evidence of
 				his status is attested by his recent promotion
-provisional	<
+provisional	<<
 			arranged or existing for the present, possibly to be changed later
 				My research into these matters is not yet complete and I would like to present my provisional conclusions
 mucus		-
@@ -228,7 +231,7 @@ specter
 feign
 			pretend to be affected by
 				Stephanie looked up at him and feign to be surprised by his visit
-devise		<
+devise		<<
 			plan or invent by careful thought
 				a training program should be devised
 			leave (real estate) to someone by the terms of a will
@@ -237,7 +240,7 @@ belie		<<
 			fail to give a true notion or impression of (something); disguise or contradict
 				 the appearance tends to belie the reality
 			fail to fulfill or justify (a claim or expectation); betray
-vagary		<
+vagary		<<
 			an unexpected and inexplicable change in a situation or in someone's behavior
 				She will also learn first-hand about the vagaries of the stock market
 interim		<
@@ -247,7 +250,7 @@ discreet
 				we made some discreet inquiries
 ecclesiastical
 			of or relating to the Christian Church or its clergy
-preclude	<
+preclude	<<
 			prevent from happening, make impossible
 				the secret nature of his work precluded official recognition
 revile		<
@@ -274,13 +277,13 @@ arrest		<
 retrospect
 			a survey or review of a past course of events or period of time
 				perhaps, in retrospect, I shouldn't have gone
-preponderance	<
+preponderance	-
 			the quality or fact of being greater in number,predominance
 				the preponderance of data came from experiments with temperate and coniferous trees
 mar
 			impair the appearance of
 				no wrinkles marred her face
-unscathed	<<
+unscathed	<
 			without suffering any injury, damage, or harm
 cogent		<
 			clear, logical, and convincing
@@ -293,7 +296,7 @@ vile		<
 ulterior	<
 			intentionally hidden
 				could there be an ulterior motive behind his request
-dilapidation	<<
+dilapidation	<
 			the state or process of falling into decay 
 				the mill was in a state of dilapidation
 tumultuous	<
@@ -386,13 +389,13 @@ austerity	<
 			extreme plainness and simplicity of style or appearance
 				the room was decorated with a restraint bordering on austerity
 			difficult economic conditions created by government to reduce a budget deficit, especially by reducing public expenditure
-intractable	<
+intractable	<<
 			hard to control or deal with
 				Poverty remains intractable despite economic growth in many countries
 prolix		<
 			using or containing too many words; tediously lengthy
 				he found the narrative too prolix and discursive
-impetuous	<
+impetuous	<<
 			acting or done quickly and without thought or care
 			moving forcefully or rapidly
 				an impetuous but controlled flow of water
@@ -412,7 +415,7 @@ pellucid	<<
 aloof		<
 			not friendly or forthcoming; cool and distant
 				they were courteous but faintly aloof
-placid		<<
+placid		<
 			not easily upset or excited
 				The sea was so calm and plazcid on top but underneath, it was as busy as a train station
 restive
