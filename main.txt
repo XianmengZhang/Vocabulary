@@ -130,18 +130,18 @@ jettison	-
 			throw or drop (something) from an aircraft or ship
 pompous
 			affectedly and irritatingly grand, solemn, or self-important
-euphemism
+euphemism	<
 			a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing
 				“downsizing” as a euphemism for cuts
 opulence
 			great wealth or luxuriousness
-occlude		-
+occlude		<
 			stop, close up, or obstruct
 				thick makeup can occlude the pores
 brevity		-
 			concise and exact use of words in writing or speech
 				the brevity of human life
-pertinent	-
+pertinent	<
 			relevant or applicable to a particular matter
 				it is a challenge more pertinent to Britain than anywhere else
 cognizant
@@ -180,7 +180,10 @@ explication
 			explanation
 satiate
 			satisfied to the full
-mire		-
+mire
+circumspect	<
+			wary and unwilling to take risks
+				the officials were very circumspect in their statements
 gorging
 			eat a large amount greedily
 stern		<
@@ -190,13 +193,13 @@ stern		<
 				he stood at the stern of the yacht
 obstinate
 			stubbornly refusing to change one's opinion or chosen course of action
-recalcitrant	<<
+recalcitrant	<<<
 			having an obstinately uncooperative attitude toward authority or discipline
 assimilation
 			the process of becoming similar to something
 			the process of taking in and fully understanding information or ideas
 			the absorption and digestion of food or nutrients by the body or any biological system
-impudent	<<
+impudent	<<<
 			not showing due respect for another person
 				I glared at her, not caring if she thought me impudent
 indulge		<
@@ -204,7 +207,7 @@ indulge		<
 				we indulged in some hot fudge sundaes
 fortuitous
 			happening by accident or chance rather than design
-coalesce	<
+coalesce	-
 			come together and form one mass or whole
 				the puddles had coalesced into shallow streams
 acquisitive	<<
@@ -221,7 +224,7 @@ mucus		-
 ethos		-
 			the characteristic spirit of a culture
 				A Christian publishing house wants a Christian ethos to permeate its workforce
-seismic		<
+seismic		-
 			of or relating to earthquakes
 posthumous
 			occurring, awarded, or appearing after the death of the originator
@@ -250,7 +253,7 @@ discreet
 				we made some discreet inquiries
 ecclesiastical
 			of or relating to the Christian Church or its clergy
-preclude	<<
+preclude	<<<
 			prevent from happening, make impossible
 				the secret nature of his work precluded official recognition
 revile		<
@@ -262,10 +265,10 @@ slander		<<
 				he is suing the TV network for slander
 			make false and damaging statements
 				they were accused of slandering the head of state
-inscrutable	<
+inscrutable	<<
 			impossible to understand or interpret
 				He just smiles his inscrutable smile and carries on clipping
-disparate	<<
+disparate	<<<
 			essentially different in kind
 				The difference between those and these findings may be due the disparate methodologies used
 arrest		<
@@ -285,10 +288,10 @@ mar
 				no wrinkles marred her face
 unscathed	<
 			without suffering any injury, damage, or harm
-cogent		<
+cogent		-
 			clear, logical, and convincing
 				 local officers have not been able to obtain cogent evidence
-rife		<
+rife		-
 			widespread
 				Worldwide obesity is so rife that it represents an evolutionary shift in human body shape
 vile		<
@@ -302,7 +305,7 @@ dilapidation	<
 tumultuous	<
 			making a loud, confused noise
 				tumultuous applause
-providential	<<
+providential	<<<
 			occurring at a favorable time,opportune
 				thanks to that providential snowstorm, the attack had been repulsed
 precarious	<<
@@ -318,7 +321,7 @@ trifle		<<
 exacerbate	<<
 			make (a problem, bad situation, or negative feeling) worse
 				the forest fire was exacerbated by the lack of rain
-impartial	<
+impartial	-
 			treating all rivals or disputants equally; fair and just
 				independent and impartial advice
 bequeath	<<
@@ -341,13 +344,13 @@ iconoclasm
 				Elite law schools cherish robust debate, iconoclasm , and arguing issues from all sides, right?
 heresy
 			belief or opinion contrary to orthodox religious (especially Christian) doctrine
-polemic		<<
+polemic		<<<
 			a strong verbal or written attack on someone or something
 				the song is not just a polemic against those who are in power
 vehement	<
 			showing strong feeling; forceful, passionate, or intense
 				her voice was low but vehement
-imbue		<<
+imbue		<<<
 			inspire or permeate with a feeling or quality
 				the entire performance was imbued with sparkle
 acerbic		<
@@ -381,7 +384,7 @@ frivolous	<
 			not having any serious purpose or value
 				some are serious, and some are frivolous - but all are entertaining
 =====
-penitence	<
+penitence	<<
 			the action of feeling or showing sorrow and regret for having done wrong; repentance
 austerity	<
 			sternness or severity of manner or attitude
@@ -392,10 +395,10 @@ austerity	<
 intractable	<<
 			hard to control or deal with
 				Poverty remains intractable despite economic growth in many countries
-prolix		<
+prolix		<<
 			using or containing too many words; tediously lengthy
 				he found the narrative too prolix and discursive
-impetuous	<<
+impetuous	<<<
 			acting or done quickly and without thought or care
 			moving forcefully or rapidly
 				an impetuous but controlled flow of water
@@ -408,7 +411,7 @@ taciturn	<
 				He was a rather taciturn individual who discouraged chatter in the theatre
 volubility
 			the quality of talking fluently, readily, or incessantly; talkativeness
-pellucid	<<
+pellucid	<
 			translucently clear
 				mountains reflected in the pellucid waters
 =====
@@ -421,13 +424,13 @@ placid		<
 restive
 			(of a person) unable to keep still and becoming increasingly difficult to control, especially because of impatience, dissatisfaction, or boredom
 				A deep silence settled upon his chest, his eyes dilated, his breathing became sporadic and restive
-skittish	<
+skittish	-
 			(of an animal, especially of a horse) excitable or easily scared
 				I was skittish , the smallest sound or touch freaked me out
 vociferous	<<
 			(especially of a person or speech) vehement or clamorous
 				The most vociferous condemnation of player behaviour in recent years has come from the media
-prosaic		<<
+prosaic		<
 			having the style or diction of prose; lacking poetic beauty
 				He has the knack for creating excitement around the most prosaic merchandise
 indecorous	<
