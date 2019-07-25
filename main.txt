@@ -308,7 +308,7 @@ dilapidation	<
 tumultuous	<
 			making a loud, confused noise
 				tumultuous applause
-precarious	<<
+precarious	<<<
 			not securely held or in position
 				a precarious ladder
 			dependent on chance, uncertain
@@ -324,7 +324,7 @@ exacerbate	<<
 impartial	-
 			treating all rivals or disputants equally; fair and just
 				independent and impartial advice
-bequeath	<<
+bequeath	<<<
 			leave (a personal estate or one's body) to a person or other beneficiary by a will
 				an identical sum was bequeathed by Margaret
 deceit
