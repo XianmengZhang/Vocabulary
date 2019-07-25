@@ -218,6 +218,9 @@ attest
 provisional	<<
 			arranged or existing for the present, possibly to be changed later
 				My research into these matters is not yet complete and I would like to present my provisional conclusions
+providential	<<<
+			occurring at a favorable time,opportune
+				thanks to that providential snowstorm, the attack had been repulsed
 mucus		-
 			a slimy substance
 				physiotherapy helps clear the thick, sticky mucus from the lungs
@@ -243,7 +246,7 @@ belie		<<
 			fail to give a true notion or impression of (something); disguise or contradict
 				 the appearance tends to belie the reality
 			fail to fulfill or justify (a claim or expectation); betray
-vagary		<<
+vagary		<<<
 			an unexpected and inexplicable change in a situation or in someone's behavior
 				She will also learn first-hand about the vagaries of the stock market
 interim		<
@@ -265,7 +268,7 @@ slander		<<
 				he is suing the TV network for slander
 			make false and damaging statements
 				they were accused of slandering the head of state
-inscrutable	<<
+inscrutable	<<<
 			impossible to understand or interpret
 				He just smiles his inscrutable smile and carries on clipping
 disparate	<<<
@@ -305,15 +308,12 @@ dilapidation	<
 tumultuous	<
 			making a loud, confused noise
 				tumultuous applause
-providential	<<<
-			occurring at a favorable time,opportune
-				thanks to that providential snowstorm, the attack had been repulsed
 precarious	<<
 			not securely held or in position
 				a precarious ladder
 			dependent on chance, uncertain
 				he made a precarious living as a painter
-trifle		<<
+trifle		<
 			a thing of little value or importance
 				[n] we needn't trouble the headmaster over such trifles
 			treat (someone or something) without seriousness or respect
@@ -335,7 +335,7 @@ dichotomy	-
 fastidious	<
 			very attentive to and concerned about accuracy and detail
 				he chooses his words with fastidious care
-didactic	<<
+didactic	<<<
 			intended to teach, particularly in having moral instruction as an ulterior motive
 				This didactic approach towards teaching history has made people look at it as a pain rather than a joy
 iconoclastic	
@@ -350,7 +350,7 @@ polemic		<<<
 vehement	<
 			showing strong feeling; forceful, passionate, or intense
 				her voice was low but vehement
-imbue		<<<
+imbue		<<
 			inspire or permeate with a feeling or quality
 				the entire performance was imbued with sparkle
 acerbic		<
@@ -384,7 +384,7 @@ frivolous	<
 			not having any serious purpose or value
 				some are serious, and some are frivolous - but all are entertaining
 =====
-penitence	<<
+penitence	<
 			the action of feeling or showing sorrow and regret for having done wrong; repentance
 austerity	<
 			sternness or severity of manner or attitude
