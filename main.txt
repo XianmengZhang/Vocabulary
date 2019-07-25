@@ -58,7 +58,7 @@ narcissist
 			a person who has an excessive interest in or admiration of themselves
 dogma
 			a principle or set of principles laid down by an authority as incontrovertibly true
-heuristic	<<
+heuristic	<
 			enabling a person to discover or learn something for themselves
 				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
 contemptible
@@ -87,7 +87,7 @@ equivocal	-
 stupendously
 			causing astonishment or wonder
 barter
-prose		<<
+prose		<
 			written or spoken language in its ordinary form, without metrical structure
 				a short story in prose
 			talk tediously
@@ -100,7 +100,7 @@ sorely		-
 lax
 damsel
 cerebral palsy
-gregarious	<<
+gregarious	<
 			fond of company; sociable
 				Even though she was so gregarious and loved to chat, she also liked to listen
 nemesis
@@ -108,7 +108,7 @@ nemesis
 				will Harry Potter finally defeat his nemesis, Voldemort?
 			a downfall caused by an inescapable agent
 			retributive justice
-insolent	<
+insolent	-
 			showing a rude and arrogant lack of respect
 cocksure
 			presumptuously or arrogantly confident
@@ -172,7 +172,7 @@ symbiosis	-
 compatriot
 			a fellow citizen or national of a country
 				Stich defeated his compatriot Boris Becker in the quarterfinals
-decorous	<<
+decorous	<
 			in keeping with good taste and propriety; polite and restrained
 				consequently, women are expected to be decorous , modest, and discreet
 				dancing with decorous space between partners
@@ -202,7 +202,7 @@ assimilation
 impudent	<<<
 			not showing due respect for another person
 				I glared at her, not caring if she thought me impudent
-indulge		<
+indulge		-
 			allow oneself to enjoy the pleasure of
 				we indulged in some hot fudge sundaes
 fortuitous
@@ -249,8 +249,10 @@ belie		<<
 vagary		<<<
 			an unexpected and inexplicable change in a situation or in someone's behavior
 				She will also learn first-hand about the vagaries of the stock market
-interim		<
+interim		-
 			temporary
+tractable	<<
+			(of a person or animal) easy to control or influence
 discreet
 			careful and circumspect in one's speech or actions
 				we made some discreet inquiries
@@ -271,6 +273,9 @@ slander		<<
 inscrutable	<<<
 			impossible to understand or interpret
 				He just smiles his inscrutable smile and carries on clipping
+intractable	<<
+			hard to control or deal with
+				Poverty remains intractable despite economic growth in many countries
 disparate	<<<
 			essentially different in kind
 				The difference between those and these findings may be due the disparate methodologies used
@@ -392,9 +397,6 @@ austerity	<
 			extreme plainness and simplicity of style or appearance
 				the room was decorated with a restraint bordering on austerity
 			difficult economic conditions created by government to reduce a budget deficit, especially by reducing public expenditure
-intractable	<<
-			hard to control or deal with
-				Poverty remains intractable despite economic growth in many countries
 prolix		<<
 			using or containing too many words; tediously lengthy
 				he found the narrative too prolix and discursive
