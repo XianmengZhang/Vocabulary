@@ -271,7 +271,7 @@ slander		<<
 			make false and damaging statements
 				they were accused of slandering the head of state
 inscrutable	<<<
-			impossible to understand or interpret
+			impossible to understand or interpret (scrutinize)
 				An inscrutable and incomparably powerful force permeates the Universe and binds it together
 intractable	<<
 			hard to control or deal with
@@ -294,6 +294,9 @@ preponderance	<
 mar
 			impair the appearance of
 				no wrinkles marred her face
+minutely	<
+			with great attention to detail; meticulously
+				systems of politics are examined minutely by academics
 unscathed	<
 			without suffering any injury, damage, or harm
 cogent		-
