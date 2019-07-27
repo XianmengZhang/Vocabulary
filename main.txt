@@ -124,6 +124,9 @@ transgress	-
 			infringe or go beyond the bounds of
 condescend
 			show feelings of superiority
+provident	<
+			making or indicative of timely preparation for the future
+				Living providently , he reached ninety years of age
 boorish
 			rough and bad-mannered
 jettison	-
@@ -340,7 +343,7 @@ dichotomy	-
 fastidious	<
 			very attentive to and concerned about accuracy and detail
 				he chooses his words with fastidious care
-didactic	<<<
+didactic	<<
 			intended to teach, particularly in having moral instruction as an ulterior motive
 				This didactic approach towards teaching history has made people look at it as a pain rather than a joy
 iconoclastic	
