@@ -170,7 +170,7 @@ dandy
 procession	<
 			a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony or festival
 codification
-providential	<<<
+providential	<<
 			occurring at a favorable time,opportune
 				thanks to that providential snowstorm, the attack had been repulsed
 symbiosis	
@@ -184,7 +184,7 @@ decorous	-
 				dancing with decorous space between partners
 explication
 			explanation
-satiate
+satiate		<
 			satisfied to the full
 mire
 circumspect	<<
@@ -199,13 +199,13 @@ stern		-
 				he stood at the stern of the yacht
 obstinate
 			stubbornly refusing to change one's opinion or chosen course of action
-recalcitrant	<
+recalcitrant	<<
 			having an obstinately uncooperative attitude toward authority or discipline
 assimilation
 			the process of becoming similar to something
 			the process of taking in and fully understanding information or ideas
 			the absorption and digestion of food or nutrients by the body or any biological system
-impudent	<<
+^impudent	<
 			not showing due respect for another person
 				I glared at her, not caring if she thought me impudent
 indulge		-
@@ -245,7 +245,7 @@ devise		<<
 				a training program should be devised
 			leave (real estate) to someone by the terms of a will
 				I devise all the residue of my estate to Earlham College
-belie		<<
+belie		<
 			fail to give a true notion or impression of (something); disguise or contradict
 				 the appearance tends to belie the reality
 			fail to fulfill or justify (a claim or expectation); betray
@@ -319,7 +319,7 @@ dilapidation	<
 tumultuous	<
 			making a loud, confused noise
 				tumultuous applause
-precarious	<<<
+precarious	<<
 			not securely held or in position
 				a precarious ladder
 			dependent on chance, uncertain
@@ -355,7 +355,7 @@ iconoclasm
 				Elite law schools cherish robust debate, iconoclasm , and arguing issues from all sides, right?
 heresy
 			belief or opinion contrary to orthodox religious (especially Christian) doctrine
-polemic		<<<
+polemic		<<<<
 			a strong verbal or written attack on someone or something
 				the song is not just a polemic against those who are in power
 vehement	<
@@ -364,7 +364,7 @@ vehement	<
 imbue		<<
 			inspire or permeate with a feeling or quality
 				the entire performance was imbued with sparkle
-acerbic		<
+acerbic		-
 			sharp and forthright
 				He instantly wished he could take back the acerbic comment
 			tasting sour or bitter
@@ -435,7 +435,7 @@ restive
 skittish	-
 			(of an animal, especially of a horse) excitable or easily scared
 				I was skittish , the smallest sound or touch freaked me out
-vociferous	<<
+vociferous	<
 			(especially of a person or speech) vehement or clamorous
 				The most vociferous condemnation of player behaviour in recent years has come from the media
 prosaic		<
