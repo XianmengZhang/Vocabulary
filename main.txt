@@ -10,6 +10,7 @@ amelioration
 				progress brings with it the amelioration of the human condition
 fond		<
 			having an affection or liking for
+				She had grown rather fond of the European drink and found it to be relaxing to sit and sip
 testosterone
 demise
 			a person's/thing's death
@@ -20,7 +21,7 @@ abdication	<
 stupendous
 			extremely impressive
 				a stupendous display of technique
-prodigious	<
+prodigious	-
 			remarkably or impressively great in extent
 morass
 			an area of muddy or boggy ground
@@ -28,7 +29,7 @@ morass
 				she would become lost in a morass of lies and explanations
 quagmire
 caveat
-proviso		<
+proviso		-
 			a condition attached to an agreement
 esoteric
 			intended to be understood by a small number of people with a specialized knowledge or interest
@@ -42,7 +43,7 @@ mirth
 euphoria
 			a feeling or state of intense excitement and happiness
 				the euphoria of success will fuel your desire to continue training
-distend		<
+distend		-
 			swell due to pressure from inside
 				a distended belly
 bewitch
@@ -62,7 +63,7 @@ heuristic	<
 			enabling a person to discover or learn something for themselves
 				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
 contemptible
-endogenous	<<
+endogenous	<
 			having an internal cause or origin
 				The vast majority of mutations in human tissues are certainly of endogenous origin
 ascribe
@@ -138,19 +139,19 @@ euphemism	-
 				“downsizing” as a euphemism for cuts
 opulence
 			great wealth or luxuriousness
-occlude		<
+occlude		-
 			stop, close up, or obstruct
 				thick makeup can occlude the pores
 brevity		-
 			concise and exact use of words in writing or speech
 				the brevity of human life
-pertinent	<
+pertinent	-
 			relevant or applicable to a particular matter
 				it is a challenge more pertinent to Britain than anywhere else
 cognizant
 			having knowledge or being aware of
 				It is impossible for her not to cognizant of the situation
-asceticism	<
+asceticism	-
 			severe self-discipline and avoidance of all forms of indulgence, typically for religious reasons
 scaffold
 			a structure made using scaffolding
@@ -216,7 +217,7 @@ fortuitous
 coalesce	-
 			come together and form one mass or whole
 				the puddles had coalesced into shallow streams
-acquisitive	<
+acquisitive	-
 			excessive interest in acquiring money or material things
 attest
 			provide or serve as clear evidence of
@@ -273,16 +274,16 @@ slander		<<
 				he is suing the TV network for slander
 			make false and damaging statements
 				they were accused of slandering the head of state
-inscrutable	<<<
+inscrutable	<<
 			impossible to understand or interpret (scrutinize)
 				An inscrutable and incomparably powerful force permeates the Universe and binds it together
-intractable	<<
+intractable	<
 			hard to control or deal with
 				Poverty remains intractable despite economic growth in many countries
 disparate	<<
 			essentially different in kind
 				The difference between those and these findings may be due the disparate methodologies used
-arrest		<
+arrest		-
 			seize (someone) by legal authority and take into custody
 			stop or check (progress or a process)
 				the spread of the disease can be arrested
@@ -335,7 +336,7 @@ exacerbate	<<
 impartial	-
 			treating all rivals or disputants equally; fair and just
 				independent and impartial advice
-bequeath	<<<
+bequeath	<<
 			leave (a personal estate or one's body) to a person or other beneficiary by a will
 				an identical sum was bequeathed by Margaret
 deceit
@@ -355,13 +356,13 @@ iconoclasm
 				Elite law schools cherish robust debate, iconoclasm , and arguing issues from all sides, right?
 heresy
 			belief or opinion contrary to orthodox religious (especially Christian) doctrine
-polemic		<<<<
+polemic		<<<
 			a strong verbal or written attack on someone or something
 				the song is not just a polemic against those who are in power
-vehement	<
+vehement	<<
 			showing strong feeling; forceful, passionate, or intense
 				her voice was low but vehement
-imbue		<<
+imbue		<
 			inspire or permeate with a feeling or quality
 				the entire performance was imbued with sparkle
 acerbic		-
@@ -403,10 +404,10 @@ austerity	<
 			extreme plainness and simplicity of style or appearance
 				the room was decorated with a restraint bordering on austerity
 			difficult economic conditions created by government to reduce a budget deficit, especially by reducing public expenditure
-prolix		<<<
+prolix		<
 			using or containing too many words; tediously lengthy
 				he found the narrative too prolix and discursive
-impetuous	<<<
+impetuous	<<
 			acting or done quickly and without thought or care
 			moving forcefully or rapidly
 				an impetuous but controlled flow of water
@@ -414,12 +415,12 @@ prodigal
 			spending money or resources freely and recklessly
 			a person who spends money in a recklessly extravagant way
 =====
-taciturn	<
+taciturn	-
 			 reserved or uncommunicative in speech
 				He was a rather taciturn individual who discouraged chatter in the theatre
 volubility
 			the quality of talking fluently, readily, or incessantly; talkativeness
-pellucid	<
+pellucid	-
 			translucently clear
 				mountains reflected in the pellucid waters
 =====
