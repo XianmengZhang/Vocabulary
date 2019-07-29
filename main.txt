@@ -171,7 +171,7 @@ dandy
 procession	<
 			a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony or festival
 codification
-providential	<<
+providential	<
 			occurring at a favorable time,opportune
 				thanks to that providential snowstorm, the attack had been repulsed
 symbiosis	
@@ -241,7 +241,7 @@ specter
 feign
 			pretend to be affected by
 				Stephanie looked up at him and feign to be surprised by his visit
-devise		<<
+devise		<
 			plan or invent by careful thought
 				a training program should be devised
 			leave (real estate) to someone by the terms of a will
