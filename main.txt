@@ -1,10 +1,18 @@
+iniquity	<
+			immoral or grossly unfair behavior
+				Wash me thoroughly from my iniquity , and cleanse me from my sin!
 curtail
 			reduce in extent or quantity,impose a restriction on
 anthropogenic
 			(chiefly of environmental pollution) originating in human activity
 				anthropogenic emissions of sulfur dioxide
+gratuity	<
+			a tip given to a waiter, taxicab driver
+				
 eutrophication
 			excessive richness of nutrients in a lake or other body of water
+gluttony	<
+			habitual greed or excess in eating
 amelioration
 			the act of making something better;	 improvement
 				progress brings with it the amelioration of the human condition
@@ -21,12 +29,18 @@ abdication	<
 stupendous
 			extremely impressive
 				a stupendous display of technique
+meager		<
+			lacking in quantity or quality
+				Its greatest weakness is its meager budget and limited scope
 prodigious	-
 			remarkably or impressively great in extent
 morass
 			an area of muddy or boggy ground
 			a complicated or confused situation
 				she would become lost in a morass of lies and explanations
+veneer		<
+			a thin decorative covering of fine wood applied to a coarser wood or other material
+				Much of today's furniture is made with a thin wood veneer over a core of particleboard
 quagmire
 caveat
 proviso		-
