@@ -1,6 +1,12 @@
 iniquity	<
 			immoral or grossly unfair behavior
 				Wash me thoroughly from my iniquity , and cleanse me from my sin!
+aficionado	<
+			a person who is very knowledgeable and enthusiastic about an activity, subject, or pastime
+				aficionados of the finest wines
+
+
+
 curtail
 			reduce in extent or quantity,impose a restriction on
 anthropogenic
@@ -11,6 +17,9 @@ gratuity	<
 				
 eutrophication
 			excessive richness of nutrients in a lake or other body of water
+bucolic		<
+			related to an idealized country life
+				You portray the bucolic aspects of small-town life, and this idealized family
 gluttony	<
 			habitual greed or excess in eating
 amelioration
@@ -19,25 +28,43 @@ amelioration
 fond		<
 			having an affection or liking for
 				She had grown rather fond of the European drink and found it to be relaxing to sit and sip
-testosterone
+abstruse	<
+			Difficult for most people to understand
 demise
 			a person's/thing's death
 			convey or grant (an estate) by will or lease
+anachronistic	<
+			Out of place for the time in which it appears
 abdication	<
 			an act of abdicating or renouncing the throne
 			failure to fulfill a responsibility or duty
+florid		<
+			Elaborate with lots of extra flourishes - often too many
+			being flowery or overblown in style, speech, writing, or decoration
 stupendous
 			extremely impressive
 				a stupendous display of technique
 meager		<
 			lacking in quantity or quality
 				Its greatest weakness is its meager budget and limited scope
+lionize		<
+			To treat someone like a celebrity
+				modern athletes are lionized
 prodigious	-
 			remarkably or impressively great in extent
+cow		<
+			To intimidate someone into following a course of action
+				the intellectuals had been cowed into silence
 morass
 			an area of muddy or boggy ground
 			a complicated or confused situation
 				she would become lost in a morass of lies and explanations
+impecunious	<
+			having little or no money
+				a titled but impecunious family
+happenstance	<
+			coincidence
+				it was just happenstance that I happened to be there
 veneer		<
 			a thin decorative covering of fine wood applied to a coarser wood or other material
 				Much of today's furniture is made with a thin wood veneer over a core of particleboard
@@ -334,7 +361,7 @@ dilapidation	<
 tumultuous	<
 			making a loud, confused noise
 				tumultuous applause
-precarious	<<
+precarious	<<<
 			not securely held or in position
 				a precarious ladder
 			dependent on chance, uncertain
@@ -373,10 +400,10 @@ heresy
 polemic		<<<
 			a strong verbal or written attack on someone or something
 				the song is not just a polemic against those who are in power
-vehement	<<
+vehement	<
 			showing strong feeling; forceful, passionate, or intense
 				her voice was low but vehement
-imbue		<
+imbue		-
 			inspire or permeate with a feeling or quality
 				the entire performance was imbued with sparkle
 acerbic		-
