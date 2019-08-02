@@ -75,12 +75,16 @@ proviso		-
 esoteric
 			intended to be understood by a small number of people with a specialized knowledge or interest
 				esoteric philosophical debates
+pejorative	<
+			expressing contempt or disapproval
 convulse
 			suffer violent involuntary contraction of the muscles
 				she convulsed, collapsing to the floor with the pain
 			to make sudden, violent, uncontrollable movements
 				she rocked backward and forward, convulsed with helpless mirth
 mirth
+scythe		<
+			a tool used for cutting crops such as grass or wheat, with a long curved blade at the end of a long pole attached to which are one or two short handles
 euphoria
 			a feeling or state of intense excitement and happiness
 				the euphoria of success will fuel your desire to continue training
