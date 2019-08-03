@@ -4,9 +4,9 @@ iniquity	<
 aficionado	<
 			a person who is very knowledgeable and enthusiastic about an activity, subject, or pastime
 				aficionados of the finest wines
-
-
-
+germane		<
+			relevant to a subject under consideration
+				
 curtail
 			reduce in extent or quantity,impose a restriction on
 anthropogenic
