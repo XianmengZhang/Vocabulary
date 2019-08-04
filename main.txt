@@ -6,7 +6,6 @@ aficionado	<
 				aficionados of the finest wines
 germane		<
 			relevant to a subject under consideration
-				
 curtail
 			reduce in extent or quantity,impose a restriction on
 anthropogenic
@@ -14,7 +13,6 @@ anthropogenic
 				anthropogenic emissions of sulfur dioxide
 gratuity	<
 			a tip given to a waiter, taxicab driver
-				
 eutrophication
 			excessive richness of nutrients in a lake or other body of water
 bucolic		<
@@ -25,7 +23,7 @@ gluttony	<
 amelioration
 			the act of making something better;	 improvement
 				progress brings with it the amelioration of the human condition
-fond		<
+fond		-
 			having an affection or liking for
 				She had grown rather fond of the European drink and found it to be relaxing to sit and sip
 abstruse	<
