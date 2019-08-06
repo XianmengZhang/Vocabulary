@@ -6,6 +6,7 @@ aficionado	<
 				aficionados of the finest wines
 germane		<
 			relevant to a subject under consideration
+				The concept seems very germane to the original post and is explained succinctly
 curtail
 			reduce in extent or quantity,impose a restriction on
 anthropogenic
@@ -81,7 +82,7 @@ convulse
 			to make sudden, violent, uncontrollable movements
 				she rocked backward and forward, convulsed with helpless mirth
 mirth
-scythe		<
+scythe		-
 			a tool used for cutting crops such as grass or wheat, with a long curved blade at the end of a long pole attached to which are one or two short handles
 euphoria
 			a feeling or state of intense excitement and happiness
@@ -106,7 +107,7 @@ heuristic	<
 			enabling a person to discover or learn something for themselves
 				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
 contemptible
-endogenous	<
+endogenous	<<
 			having an internal cause or origin
 				The vast majority of mutations in human tissues are certainly of endogenous origin
 ascribe
@@ -293,7 +294,7 @@ belie		<
 			fail to give a true notion or impression of (something); disguise or contradict
 				 the appearance tends to belie the reality
 			fail to fulfill or justify (a claim or expectation); betray
-vagary		<
+vagary		<<
 			an unexpected and inexplicable change in a situation or in someone's behavior
 				She will also learn first-hand about the vagaries of the stock market
 interim		-
@@ -317,7 +318,7 @@ slander		<<
 				he is suing the TV network for slander
 			make false and damaging statements
 				they were accused of slandering the head of state
-inscrutable	<<
+inscrutable	<
 			impossible to understand or interpret (scrutinize)
 				An inscrutable and incomparably powerful force permeates the Universe and binds it together
 intractable	<
