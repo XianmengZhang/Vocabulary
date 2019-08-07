@@ -7,8 +7,24 @@ aficionado	<
 germane		<
 			relevant to a subject under consideration
 				The concept seems very germane to the original post and is explained succinctly
+philanthropist	<
+			a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes
+				He also established himself as one of the city's most generous philanthropists
+rout
+		<
+			a disorderly retreat of defeated troops
+				the retreat degenerated into a rout
 curtail
 			reduce in extent or quantity,impose a restriction on
+concession	<
+			a thing that is granted, especially in response to demands; a thing conceded
+				the strikers returned to work having won some concessions
+			the right to use land or other property for a specified purpose, granted by a government, company, or other controlling body
+				new logging concessions
+
+retribution	<
+			punishment that is considered to be morally right and fully deserved
+				settlers drove the Navajo out of Arizona in retribution for their raids
 anthropogenic
 			(chiefly of environmental pollution) originating in human activity
 				anthropogenic emissions of sulfur dioxide
@@ -24,6 +40,14 @@ gluttony	<
 amelioration
 			the act of making something better;	 improvement
 				progress brings with it the amelioration of the human condition
+clout		<
+			a heavy hit with the hand or a hard object
+				a clout on the ear
+			influence or power, especially in politics or business
+				I knew he carried a lot of clout
+populace	<
+			the people living in a particular country or are
+				the party misjudged the mood of the populace
 fond		-
 			having an affection or liking for
 				She had grown rather fond of the European drink and found it to be relaxing to sit and sip
@@ -299,7 +323,7 @@ vagary		<<
 				She will also learn first-hand about the vagaries of the stock market
 interim		-
 			temporary
-tractable	<<
+tractable	<
 			(of a person or animal) easy to control or influence
 discreet
 			careful and circumspect in one's speech or actions
