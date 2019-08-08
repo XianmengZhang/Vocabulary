@@ -10,6 +10,9 @@ germane		<
 philanthropist	<
 			a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes
 				He also established himself as one of the city's most generous philanthropists
+subjugate	<
+			bring under domination or control, especially by conquest
+				the invaders had soon subjugated most of the native population
 rout
 		<
 			a disorderly retreat of defeated troops
