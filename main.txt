@@ -23,15 +23,33 @@ belligerent	<
 			hostile and aggressive
 				a bull-necked, belligerent old man
 			a nation or person engaged in war or conflict, as recognized by international law
+secular		<
+			denoting attitudes, activities, or other things that have no religious or spiritual basis
+				Nowadays, of course, Christmas is a largely secular affair
+subpoena	<
+			a writ ordering a person to attend a court
+				a subpoena may be issued to compel their attendance
+partisan	<
+			prejudiced in favor of a particular cause
+				newspapers have become increasingly partisan
+			a strong supporter of a party, cause, or person
+rapprochement	<
+			an establishment or resumption of harmonious relations
+				there were signs of a growing rapprochement between the two countries
 concession	<
 			a thing that is granted, especially in response to demands; a thing conceded
 				the strikers returned to work having won some concessions
 			the right to use land or other property for a specified purpose, granted by a government, company, or other controlling body
 				new logging concessions
-
+racketeer	<
+			a person who engages in dishonest and fraudulent business dealings
+				They are vulnerable to racketeers, and their children are permanent targets for kidnappers
 retribution	<
 			punishment that is considered to be morally right and fully deserved
 				settlers drove the Navajo out of Arizona in retribution for their raids
+cynicism	<
+			an inclination to believe that people are motivated purely by self-interest; skepticism
+				public cynicism about politics
 anthropogenic
 			(chiefly of environmental pollution) originating in human activity
 				anthropogenic emissions of sulfur dioxide
@@ -44,6 +62,8 @@ bucolic		<
 				You portray the bucolic aspects of small-town life, and this idealized family
 gluttony	<
 			habitual greed or excess in eating
+perjury		<
+			the offense of willfully telling an untruth in a court after having taken an oath or affirmation
 amelioration
 			the act of making something better;	 improvement
 				progress brings with it the amelioration of the human condition
