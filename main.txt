@@ -16,12 +16,26 @@ philanthropist	<
 subjugate	<
 			bring under domination or control, especially by conquest
 				the invaders had soon subjugated most of the native population
+defer		<
+			put off (an action or event) to a later time; postpone
+				they deferred the decision until February
+			submit humbly to (a person or a person's wishes or qualities)
+				he deferred to Tim's superior knowledge
 rout
 		<
 			a disorderly retreat of defeated troops
 				the retreat degenerated into a rout
+predisposition	<
+			a liability or tendency to suffer from a particular condition, hold a particular attitude, or act in a particular way
+				You can see genetic predispositions to certain things pop up along the family tree
+concomitant	<
+			naturally accompanying or associated
+				she loved travel, with all its concomitant worries
 curtail
 			reduce in extent or quantity,impose a restriction on
+brood		<
+			a family of young animals, especially of a bird, produced at one hatching or birth
+				a brood of chicks
 belligerent	<
 			hostile and aggressive
 				a bull-necked, belligerent old man
@@ -38,7 +52,10 @@ partisan	<
 			a strong supporter of a party, cause, or person
 rapprochement	<
 			an establishment or resumption of harmonious relations
-				there were signs of a growing rapprochement between the two countries
+				there were signs of a growing rapprochement between the two
+forage		<
+			bulky food such as grass or hay for horses and cattle
+			a wide search over an area in order to obtain something
 concession	<
 			a thing that is granted, especially in response to demands; a thing conceded
 				the strikers returned to work having won some concessions
@@ -329,11 +346,17 @@ mucus		-
 ethos		-
 			the characteristic spirit of a culture
 				A Christian publishing house wants a Christian ethos to permeate its workforce
+extemporaneous	<
+			spoken or done without preparation
+				I particularly like the more extemporaneous remarks that he made afterwards
 seismic		-
 			of or relating to earthquakes
 posthumous
 			occurring, awarded, or appearing after the death of the originator
 				he was awarded a posthumous Military Cross
+vestigial	<
+			forming a very small remnant of something that was once much larger or more noticeable
+				he felt a vestigial flicker of anger from last night
 specter
 			a ghost
 feign
@@ -358,6 +381,10 @@ tractable	<
 discreet
 			careful and circumspect in one's speech or actions
 				we made some discreet inquiries
+impart		<
+			make (information) known; communicate
+				teachers had a duty to impart strong morals to their students
+				
 ecclesiastical
 			of or relating to the Christian Church or its clergy
 preclude	<<<
@@ -404,11 +431,16 @@ unscathed	<
 cogent		-
 			clear, logical, and convincing
 				 local officers have not been able to obtain cogent evidence
+innate		<
+			inborn; natural
+				Scientists would argue that humans do innately know how to swim	
 rife		-
 			widespread
 				Worldwide obesity is so rife that it represents an evolutionary shift in human body shape
 vile		<
 			extremely unpleasant
+egalitarian	<
+			of, relating to, or believing in the principle that all people are equal and deserve equal rights and opportunities
 ulterior	<
 			intentionally hidden
 				could there be an ulterior motive behind his request
@@ -445,6 +477,9 @@ dichotomy	-
 fastidious	<
 			very attentive to and concerned about accuracy and detail
 				he chooses his words with fastidious care
+espouse		<
+			adopt or support (a cause, belief, or way of life)
+				he turned his back on the modernism he had espoused in his youth
 didactic	<<
 			intended to teach, particularly in having moral instruction as an ulterior motive
 				This didactic approach towards teaching history has made people look at it as a pain rather than a joy
