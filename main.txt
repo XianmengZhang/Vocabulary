@@ -95,6 +95,8 @@ clout		<
 populace	<
 			the people living in a particular country or are
 				the party misjudged the mood of the populace
+megalomaniac	<
+			a person who is obsessed with their own power
 fond		-
 			having an affection or liking for
 				She had grown rather fond of the European drink and found it to be relaxing to sit and sip
@@ -140,7 +142,9 @@ veneer		<
 				Much of today's furniture is made with a thin wood veneer over a core of particleboard
 quagmire
 caveat
-proviso		-
+irk		<
+			irritate; annoy
+proviso		<
 			a condition attached to an agreement
 esoteric
 			intended to be understood by a small number of people with a specialized knowledge or interest
@@ -162,6 +166,11 @@ distend		-
 			swell due to pressure from inside
 				a distended belly
 bewitch
+assiduous	<
+			showing great care and perseverance	刻苦
+dissemble	<
+			conceal one's true motives, feelings, or beliefs
+				an honest, sincere person with no need to dissemble
 enchant
 			fill (someone) with great delight/charm
 				Isabel was enchanted with the idea
@@ -170,6 +179,9 @@ enchant
 calamity	-
 			an event causing great and often sudden damage or distress; a disaster
 				the journey had led to calamity and ruin
+conspire	<
+			make secret plans jointly to commit an unlawful or harmful act.
+				they conspired against him
 narcissist
 			a person who has an excessive interest in or admiration of themselves
 dogma
@@ -213,17 +225,39 @@ loathe
 sorely		-
 			to a very high degree or level of intensity
 				help was sorely needed
-lax
-damsel
-cerebral palsy
+tacit		<
+			understood or implied without being stated
+				No regime can rule by force alone - they usually rule by consent, whether tacit or explicit
+trifle		<
+			a thing of little value or importance
+malign		<
+			evil in nature or effect; malevolent
+				she had a strong and malign influence
+			speak about (someone) in a spitefully critical manner
+				don't you dare malign her in my presence
+aversion	<
+			a strong dislike or disinclination
+				he had a deep-seated aversion to most forms of exercise			
+penchant	<
+			a strong or habitual liking for something or tendency to do something
+				he has a penchant for adopting stray dogs
 gregarious	-
 			fond of company; sociable
 				Even though she was so gregarious and loved to chat, she also liked to listen
+precocious	<
+			(of a child) having developed certain abilities or proclivities at an earlier age than usual
 nemesis
 			a long-standing rival
 				will Harry Potter finally defeat his nemesis, Voldemort?
 			a downfall caused by an inescapable agent
 			retributive justice
+extant		<
+			(especially of a document) still in existence; surviving
+				the original manuscript is no longer extant
+veracious	<
+			speaking or representing the truth, honest
+transgression	<
+			an act that goes against a law, rule, or code of conduct; an offense
 insolent	-
 			showing a rude and arrogant lack of respect
 cocksure
