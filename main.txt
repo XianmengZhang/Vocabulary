@@ -46,6 +46,32 @@ secular		<
 subpoena	<
 			a writ ordering a person to attend a court
 				a subpoena may be issued to compel their attendance
+dorsal		<
+			of, on, or relating to the upper side or back of an animal, plant, or organ
+				dorsal fin
+lament		<
+			a passionate expression of grief or sorrow, mourn
+				All those living who heard her lament were deeply moved
+commensurate	<
+			corresponding in size or degree; in proportion.
+				salary will be commensurate with experience
+kindred		<
+			one's family and relations
+			similar in kind; related
+				books on kindred subjects
+pelagic		<
+			of or relating to the open sea
+				They hunt small schooling fish, squid and octopus, and are an important predator of large pelagic fish including tuna and swordfish
+imperative	<
+			of vital importance; crucial
+				immediate action was imperative
+			giving an authoritative command; peremptory
+				the bell pealed again, a final imperative call
+labyrinth	<
+			maze
+scant		<
+			barely sufficient or adequate.
+				companies with scant regard for the safety of future generations
 partisan	<
 			prejudiced in favor of a particular cause
 				newspapers have become increasingly partisan
@@ -56,14 +82,25 @@ rapprochement	<
 forage		<
 			bulky food such as grass or hay for horses and cattle
 			a wide search over an area in order to obtain something
+quotidian	<
+			of or occurring every day; daily
+				the car sped noisily off through the quotidian traffic
+tillage		<
+			the preparation of land for growing crops	耕作
 concession	<
 			a thing that is granted, especially in response to demands; a thing conceded
 				the strikers returned to work having won some concessions
 			the right to use land or other property for a specified purpose, granted by a government, company, or other controlling body
 				new logging concessions
+pectoral	<
+			of or relating to the breast or chest
+				pectoral fin
+
 racketeer	<
 			a person who engages in dishonest and fraudulent business dealings
 				They are vulnerable to racketeers, and their children are permanent targets for kidnappers
+elegy		<
+			a poem of serious reflection, typically a lament for the dead	挽歌
 retribution	<
 			punishment that is considered to be morally right and fully deserved
 				settlers drove the Navajo out of Arizona in retribution for their raids
@@ -77,21 +114,47 @@ gratuity	<
 			a tip given to a waiter, taxicab driver
 eutrophication
 			excessive richness of nutrients in a lake or other body of water
+perfunctory	<
+			(of an action or gesture) carried out with a minimum of effort or reflection
+				he gave a perfunctory nod
+canny		<
+			having or showing shrewdness and good judgment, especially in money or business matters
+				canny shoppers came early for a bargain
 bucolic		<
 			related to an idealized country life
 				You portray the bucolic aspects of small-town life, and this idealized family
 gluttony	<
 			habitual greed or excess in eating
+onset		<
+			the beginning of something, especially something unpleasant
+				the onset of winter
+mortify		<
+			cause (someone) to feel embarrassed, ashamed, or humiliated
+				she was mortified to see her wrinkles in the mirror
+			(of flesh) be affected by gangrene or necrosis
+				the cut in Henry's arm had mortified
+cursory		<
+			hasty and therefore not thorough or detailed
+				a cursory glance at the figures
+verbatim	<
+			in exactly the same words as were used originally
+				subjects were instructed to recall the passage verbatim
 perjury		<
 			the offense of willfully telling an untruth in a court after having taken an oath or affirmation
 amelioration
 			the act of making something better;	 improvement
 				progress brings with it the amelioration of the human condition
+herald		<
+			be a sign that (something) is about to happen
+				the speech heralded a change in policy
 clout		<
 			a heavy hit with the hand or a hard object
 				a clout on the ear
 			influence or power, especially in politics or business
 				I knew he carried a lot of clout
+harbinger	<
+			a person or thing that announces or signals the approach of another
+				witch hazels are the harbingers of spring
 populace	<
 			the people living in a particular country or are
 				the party misjudged the mood of the populace
@@ -165,7 +228,15 @@ euphoria
 distend		-
 			swell due to pressure from inside
 				a distended belly
+confound	<
+			cause surprise or confusion in (someone), especially by acting against their expectations
+				the inflation figure confounded economic analysts
+banal		<
+			so lacking in originality as to be obvious and boring.
+				songs with banal, repeated words
 bewitch
+scowl		<
+			an angry or bad-tempered expression
 assiduous	<
 			showing great care and perseverance	刻苦
 dissemble	<
@@ -189,7 +260,13 @@ dogma
 heuristic	<
 			enabling a person to discover or learn something for themselves
 				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
+serendipitous	<
+			fortuitous,occurring or discovered by chance in a happy or beneficial way.
+				a serendipitous encounter
 contemptible
+prescient	<
+			having or showing knowledge of events before they take place.
+				a prescient warning
 endogenous	<<
 			having an internal cause or origin
 				The vast majority of mutations in human tissues are certainly of endogenous origin
@@ -251,6 +328,12 @@ nemesis
 				will Harry Potter finally defeat his nemesis, Voldemort?
 			a downfall caused by an inescapable agent
 			retributive justice
+disseminate	<
+			spread or disperse (something, especially information) widely
+				health authorities should foster good practice by disseminating information
+promulgate	<
+			promote or make widely known
+				Once the idea was promulgated , it was accepted as fact
 extant		<
 			(especially of a document) still in existence; surviving
 				the original manuscript is no longer extant
@@ -484,6 +567,13 @@ dilapidation	<
 tumultuous	<
 			making a loud, confused noise
 				tumultuous applause
+blemish		<
+			a small mark or flaw that spoils the appearance of something
+mere		<
+			that is solely or no more or better than what is specified	(仅仅)
+				it happened a mere decade ago
+				she seemed to him not merely an intelligent woman, but a kind of soul mate
+			a lake, pond, or arm of the sea
 precarious	<<<
 			not securely held or in position
 				a precarious ladder
