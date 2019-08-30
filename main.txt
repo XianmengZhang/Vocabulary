@@ -66,19 +66,46 @@ curtail
 brood		<
 			a family of young animals, especially of a bird, produced at one hatching or birth
 				a brood of chicks
+geyser		<
+			a hot spring in which water intermittently boils, sending a tall column of water and steam into the air
+				Precious metals are commonly precipitated with the siliceous sinters that form around hot springs and geysers
+			a gas-fired water heater through which water flows as it is rapidly heated
+			(especially of water or steam) gush or burst out with great force
+				yellow smoke geysered upward
+idiosyncrasy	<
+			a mode of behavior or way of thought peculiar to an individual
+				one of his little idiosyncrasies was always preferring to be in the car first
 belligerent	<
 			hostile and aggressive
 				a bull-necked, belligerent old man
 			a nation or person engaged in war or conflict, as recognized by international law
+futility	<
+			pointlessness or uselessness
+				the horror and futility of war
+heir		<
+			a person legally entitled to the property or rank of another on that person's death
+				In fact, his son and heir Prince William has been here only once, as a baby
+accede		<
+			assent or agree to a demand, request, or treaty
+				the authorities did not accede to the strikers' demands
+wail		<
+			a prolonged high-pitched cry of pain, grief, or ange
+				She let out a high-pitched wail and fled to the back of the room
 secular		<
 			denoting attitudes, activities, or other things that have no religious or spiritual basis
 				Nowadays, of course, Christmas is a largely secular affair
 subpoena	<
 			a writ ordering a person to attend a court
 				a subpoena may be issued to compel their attendance
+wean		<
+			accustom (an infant or other young mammal) to food other than its mother's milk
+				A breast-feeding mother will wean her infant before returning to work
 dorsal		<
 			of, on, or relating to the upper side or back of an animal, plant, or organ
 				dorsal fin
+dormant		<	
+			(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep
+				dormant butterflies/volcanoes
 lament		<
 			a passionate expression of grief or sorrow, mourn
 				All those living who heard her lament were deeply moved
