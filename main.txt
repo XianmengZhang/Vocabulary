@@ -1,3 +1,33 @@
+culprit		<
+			a person who is responsible for a crime or other misdeed
+				The culprits behaved like seasoned thugs but claimed that they were guardians of law and order
+arcane		<
+			understood by few; mysterious or secret
+				modern math and its arcane notation
+sanguine	<
+			optimistic or positive
+				he is sanguine about prospects for the global economy
+eclectic	<
+			deriving ideas, style, or taste from a broad and diverse range of sources	不拘一格
+				her musical tastes are eclectic
+adroit		<
+			clever or skillful in using the hands or mind
+				he was adroit at tax avoidance
+feeble		<
+			acking physical strength, especially as a result of age or illness
+				my legs are very feeble after the flu
+impetus		<
+			the force or energy with which a body moves, momentum
+				hit the booster coil before the flywheel loses all its impetus
+deb^acle	<
+			a sudden and ignominious failure; a fiasco
+				the economic debacle that became known as the Great Depression
+hidebound	<
+			unwilling or unable to change because of tradition or convention
+				you are hidebound by your petty laws
+accretion	<
+			the process of growth or increase, typically by the gradual accumulation of additional layers or matter
+				the accretion of sediments in coastal mangroves
 unanimous	<
 			(of two or more people) fully in agreement
 				the doctors were unanimous in their diagnoses
@@ -82,6 +112,8 @@ rapprochement	<
 forage		<
 			bulky food such as grass or hay for horses and cattle
 			a wide search over an area in order to obtain something
+equivocal	<
+			open to more than one interpretation，ambiguous
 quotidian	<
 			of or occurring every day; daily
 				the car sped noisily off through the quotidian traffic
@@ -287,8 +319,6 @@ gastric		<
 				Pain caused by a gastric ulcer is often made worse by eating
 unequivocally	-
 			in a way that leaves no doubt
-equivocal	-
-			open to more than one interpretation，ambiguous
 stupendously
 			causing astonishment or wonder
 barter
