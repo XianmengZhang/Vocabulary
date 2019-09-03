@@ -1,3 +1,4 @@
+Murphy's law is an adage or epigram that is typically stated as: "Anything that can go wrong will go wrong"			谚语 警句
 culprit		<
 			a person who is responsible for a crime or other misdeed
 				The culprits behaved like seasoned thugs but claimed that they were guardians of law and order
@@ -7,21 +8,73 @@ arcane		<
 sanguine	<
 			optimistic or positive
 				he is sanguine about prospects for the global economy
+undermine	<
+			damage or weaken (someone or something), especially gradually or insidiously.
+				"this could undermine years of hard work"
 eclectic	<
-			deriving ideas, style, or taste from a broad and diverse range of sources	不拘一格
+			deriving ideas, style, or taste from a broad and diverse range of sources				不拘一格
 				her musical tastes are eclectic
 adroit		<
 			clever or skillful in using the hands or mind
 				he was adroit at tax avoidance
+rote		<
+			mechanical or habitual repetition of something to be learned.
+				"a poem learned by rote in childhood"
+respite		<
+			a short period of rest or relief from something difficult or unpleasant.
+				"the refugee encampments will provide some respite from the suffering"
+			postpone (a sentence, obligation, etc.).
+				"the execution was only respited a few months"
+forsake		<
+			abandon (someone or something).
+				"he would never forsake Tara"
+trenchant	<
+			vigorous or incisive in expression or style
+				she heard angry voices, not loud, yet certainly trenchant
+			(of a weapon or tool) having a sharp edge
+				a trenchant blade
+laconic		<
+			(of a person, speech, or style of writing) using very few words
+				his laconic reply suggested a lack of interest in the topic
+benevolent	<
+			well meaning and kindly.
+				"a benevolent smile"
+ambivalent
+			having mixed feelings or contradictory ideas about something or someone.
+				"some loved her, some hated her, few were ambivalent about her"
 feeble		<
 			acking physical strength, especially as a result of age or illness
 				my legs are very feeble after the flu
 impetus		<
 			the force or energy with which a body moves, momentum
 				hit the booster coil before the flywheel loses all its impetus
+countenance	<
+			a person's face or facial expression.
+				"his impenetrable eyes and inscrutable countenance give little away"
+			support.
+				"she was giving her specific countenance to the occasion"
+			admit as acceptable or possible.
+				"he was reluctant to countenance the use of force"
+perplexity	<
+			inability to deal with or understand something complicated or unaccountable.
+				"she paused in perplexity"
+caprice		<
+			a sudden and unaccountable change of mood or behavior.
+				"her caprices had made his life impossible"
+entail		<
+			involve (something) as a necessary or inevitable part or consequence.
+				"a situation that entails considerable risks"
+			a settlement of the inheritance of property over a number of generations so that it remains within a family or other group
+			
+equanimity	<
+			mental calmness, composure, and evenness of temper, especially in a difficult situation.
+				"she accepted both the good and the bad with equanimity"
 deb^acle	<
 			a sudden and ignominious failure; a fiasco
 				the economic debacle that became known as the Great Depression
+erratic		<
+			not even or regular in pattern or movement; unpredictable.
+				"her breathing was erratic"
 hidebound	<
 			unwilling or unable to change because of tradition or convention
 				you are hidebound by your petty laws
@@ -31,6 +84,54 @@ accretion	<
 unanimous	<
 			(of two or more people) fully in agreement
 				the doctors were unanimous in their diagnoses
+veracity	<
+			conformity to facts; accuracy
+				officials expressed doubts concerning the veracity of the story
+onerous		<
+			(of a task, duty, or responsibility) involving an amount of effort and difficulty that is oppressively burdensome
+				he found his duties increasingly onerous
+fathom		<
+			a unit of length equal to six feet (approximately 1.8 m), chiefly used in reference to the depth of water
+				sonar says that we're in eighteen fathoms
+			understand (a difficult problem or an enigmatic person) after much thought
+				he could scarcely fathom the idea that people actually lived in Las Vegas
+			measure the depth of (water)
+				an attempt to fathom the ocean
+transient	<
+			lasting only for a short time; impermanent.
+				"a transient cold spell"
+			a person who is staying or working in a place for only a short time.
+				"The law had been applied to hotels and motels to collect a tax from transients , vacationers, and travelers, who stay overnight in Alabama"
+			a momentary variation in current, voltage, or frequency.
+				"The AA300 Series integrated load center lets users tailor protection against harmful voltage transients"
+plethora	<
+			a large or excessive amount of (something).
+				"a plethora of committees and subcommittees"
+extoll		<
+			praise enthusiastically.
+				"he extolled the virtues of the Russian peoples"
+tenacious	<
+			tending to keep a firm hold of something; clinging or adhering closely.
+				"a tenacious grip"
+indomitable	<
+			impossible to subdue or defeat.
+				"a woman of indomitable spirit"
+devious		<
+			showing a skillful use of underhanded tactics to achieve goals.
+				"he's as devious as a politician needs to be"
+			(of a route or journey) longer and less direct than the most straightforward way.
+				"they arrived at the town by a devious route"
+con^undrum	<
+			a confusing and difficult problem or question.
+				"one of the most difficult conundrums for the experts"
+brazen		<
+			bold and without shame.
+				"he went about his illegal business with a brazen assurance"
+			made of brass
+staunch		<
+			loyal and committed in attitude.
+				"a staunch supporter of the antinuclear lobby"
+			(of a wall) of strong or firm construction
 iniquity	<
 			immoral or grossly unfair behavior
 				Wash me thoroughly from my iniquity , and cleanse me from my sin!
@@ -40,6 +141,9 @@ aficionado	<
 germane		<
 			relevant to a subject under consideration
 				The concept seems very germane to the original post and is explained succinctly
+paucity		<
+			the presence of something only in small or insufficient quantities or amounts; scarcity.
+				"a paucity of information"
 philanthropist	<
 			a person who seeks to promote the welfare of others, especially by the generous donation of money to good causes
 				He also established himself as one of the city's most generous philanthropists
@@ -72,9 +176,15 @@ geyser		<
 			a gas-fired water heater through which water flows as it is rapidly heated
 			(especially of water or steam) gush or burst out with great force
 				yellow smoke geysered upward
+resumption	<
+			the action of beginning something again after a pause or interruption.
+				"a resumption of meaningful negotiation"
 idiosyncrasy	<
 			a mode of behavior or way of thought peculiar to an individual
 				one of his little idiosyncrasies was always preferring to be in the car first
+predilection	<
+			a preference or special liking for something; a bias in favor of something.
+				"my predilection for Asian food"
 belligerent	<
 			hostile and aggressive
 				a bull-necked, belligerent old man
@@ -291,9 +401,24 @@ euphoria
 distend		-
 			swell due to pressure from inside
 				a distended belly
+instigate	<
+			bring about or initiate (an action or event).
+				"they instigated a reign of terror"
+
+dispel		<
+			make (a doubt, feeling, or belief) disappear.
+				"the brightness of the day did nothing to dispel Elaine's dejection"
 confound	<
 			cause surprise or confusion in (someone), especially by acting against their expectations
 				the inflation figure confounded economic analysts
+discern		<
+			perceive or recognize (something).
+				"I can discern no difference between the two policies"
+turbid		<
+			(of a liquid) cloudy, opaque, or thick with suspended matter
+quell		<
+			put an end to (a rebellion or other disorder), typically by the use of force.
+				"extra police were called to quell the disturbance"
 banal		<
 			so lacking in originality as to be obvious and boring.
 				songs with banal, repeated words
@@ -323,9 +448,9 @@ dogma
 heuristic	<
 			enabling a person to discover or learn something for themselves
 				Emotions, he says, are ‘our main heuristic guide to discovering moral truths’
-serendipitous	<
-			fortuitous,occurring or discovered by chance in a happy or beneficial way.
-				a serendipitous encounter
+serendipity	<
+			the occurrence and development of events by chance in a happy or beneficial way.
+				There is huge serendipity in life and we cannot plan for it of course
 contemptible
 prescient	<
 			having or showing knowledge of events before they take place.
@@ -583,6 +708,9 @@ inscrutable	<
 intractable	<
 			hard to control or deal with
 				Poverty remains intractable despite economic growth in many countries
+abet		<
+			encourage or assist (someone) to do something wrong, in particular, to commit a crime or other offense.
+				"he was not guilty of murder but was guilty of aiding and abetting others"
 disparate	<<
 			essentially different in kind
 				The difference between those and these findings may be due the disparate methodologies used
@@ -765,7 +893,7 @@ indecorous	<
 				In Italy, Spain and France it is considered indecorous to reveal too much skin anywhere but in the water
 				The British press has been atypically lenient in its review of his atrociously indecorous behaviour
 =====
-fallow		
+fallow
 			plowed and harrowed but left unsown for a period in order to restore its fertility as part of a crop rotation or to avoid surplus production
 perforate	<
 			pierce and make a hole or holes in
