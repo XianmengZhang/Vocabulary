@@ -8,6 +8,9 @@ arcane		<
 sanguine	<
 			optimistic or positive
 				he is sanguine about prospects for the global economy
+nonchalant	<
+			of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.
+				"she gave a nonchalant shrug"
 undermine	<
 			damage or weaken (someone or something), especially gradually or insidiously.
 				"this could undermine years of hard work"
@@ -81,6 +84,9 @@ hidebound	<
 accretion	<
 			the process of growth or increase, typically by the gradual accumulation of additional layers or matter
 				the accretion of sediments in coastal mangroves
+collate		<
+			collect and combine (texts, information, or sets of figures) in proper order
+				We collect and collate such information, so it is available for analysis and interpretation
 unanimous	<
 			(of two or more people) fully in agreement
 				the doctors were unanimous in their diagnoses
@@ -422,6 +428,33 @@ quell		<
 banal		<
 			so lacking in originality as to be obvious and boring.
 				songs with banal, repeated words
+diffident	<
+			modest or shy because of a lack of self-confidence.
+				"a diffident youth"
+substantive	<
+			having a firm basis in reality and therefore important, meaningful, or considerable.			实质性
+				"there is no substantive evidence for the efficacy of these drugs"
+			having a separate and independent existence.
+				"Nothing has a substantive existence apart from everything else and exists only in the context of everything else."
+
+predicament	<
+			a difficult, unpleasant, or embarrassing situation.
+				"the club's financial predicament"
+
+duandary	<
+			a state of perplexity or uncertainty over what to do in a difficult situation.
+				"Kate is in a quandary"
+staunch		<
+			stop or restrict (a flow of blood) from a wound.
+				"colleagues may have saved her life by stanching the 
+			loyal and committed in attitude.
+				"a staunch supporter of the antinuclear lobby"
+accentuated	<
+			make more noticeable or prominent.
+				"his jacket unfortunately accentuated his paunch"
+bungled		<
+			carry out (a task) clumsily or incompetently, leading to failure or an unsatisfactory outcome.
+				"she had bungled every attempt to help"
 bewitch
 scowl		<
 			an angry or bad-tempered expression
