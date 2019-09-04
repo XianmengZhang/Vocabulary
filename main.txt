@@ -11,6 +11,9 @@ arcane		<
 sanguine	<
 			optimistic or positive
 				he is sanguine about prospects for the global economy
+derision	<
+			contemptuous ridicule or mockery
+				my stories were greeted with derision and disbelief
 nonchalant	<
 			of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.
 				"she gave a nonchalant shrug"
