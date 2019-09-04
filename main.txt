@@ -2,6 +2,9 @@ Murphy's law is an adage or epigram that is typically stated as: "Anything that 
 culprit		<
 			a person who is responsible for a crime or other misdeed
 				The culprits behaved like seasoned thugs but claimed that they were guardians of law and order
+lethargy	<
+				a lack of energy and enthusiasm.
+				periods of weakness and lethargy
 arcane		<
 			understood by few; mysterious or secret
 				modern math and its arcane notation
